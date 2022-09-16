@@ -3,7 +3,7 @@
     var, let 키워드
 */
 
-//변수 선언
+//변수 선언 
 var peach;
 console.log(peach);
 //변수 선언만 하고 값을 부여받지 못하여 Run code시 undefined 라고 뜬다.
@@ -34,3 +34,5 @@ console.log(합계);
 console.log(sum);
 console.log(sum + 합계);
 
+// 상수 변하지 않는 값 
+// const 키워드 선언
